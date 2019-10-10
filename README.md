@@ -5,4 +5,5 @@ Function Snippet to make sure all JS is rendered in the footer.
 - PHP
 
 
-## Marcus Jackson, marcusj98@gmail.com
+## Author
+Marcus Jackson, marcusj98@gmail.com
